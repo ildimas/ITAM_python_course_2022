@@ -4,3 +4,4 @@ def greetings(stroke):
 name_and_surname = input()
 print(greetings(name_and_surname))
 #
+#
